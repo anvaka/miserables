@@ -1,6 +1,7 @@
 # miserables [![Build Status](https://travis-ci.org/anvaka/miserables.svg)](https://travis-ci.org/anvaka/miserables)
 
-The encounters between the characters of Les Misérables as a graph:
+The encounters between the characters of Les Misérables as a graph (see [`ngraph.graph`](https://github.com/anvaka/ngraph.graph)
+for the API):
 
 ![Les Miserables graph](https://cloud.githubusercontent.com/assets/225407/11013996/91160ad2-84d8-11e5-9f4a-b7a8a2d4d578.png)
 
