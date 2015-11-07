@@ -1,0 +1,21 @@
+{
+  "name": "miserables",
+  "version": "1.0.0",
+  "description": "The encounters between the characters of Les Misérables as a graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ngraph",
+    "test",
+    "graph",
+    "miserables"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/miserables"
+  }
+}
