@@ -1,6 +1,6 @@
 {
   "name": "miserables",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The encounters between the characters of Les Misérables as a graph",
   "main": "index.js",
   "scripts": {
