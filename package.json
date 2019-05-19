@@ -19,10 +19,10 @@
     "url": "https://github.com/anvaka/miserables"
   },
   "dependencies": {
-    "ngraph.graph": "0.0.14"
+    "ngraph.graph": "^18.0.0"
   },
   "devDependencies": {
     "ngraph.svg": "0.0.15",
-    "tap": "^2.2.0"
+    "tap": "^14.0.0"
   }
 }
