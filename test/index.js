@@ -10,8 +10,8 @@ test('it creates graph', function(t) {
 test('it can create copies of the graph', function(t) {
   var otherGraph = g.create();
 
-  t.equals(otherGraph.getLinksCount(), g.getLinksCount(), 'Graph has links');
-  t.equals(otherGraph.getNodesCount(), g.getNodesCount(), 'And graph has nodes');
-  t.notEqual(otherGraph, g, 'Instances are not the same');
+  t.equal(otherGraph.getLinksCount(), g.getLinksCount(), 'Graph has links');
+  t.equal(otherGraph.getNodesCount(), g.getNodesCount(), 'And graph has nodes');
+  t.not(otherGraph, g, 'Instances are not the same');
   t.end();
 });
