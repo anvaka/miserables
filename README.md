@@ -1,4 +1,5 @@
-# miserables [![Build Status](https://travis-ci.org/anvaka/miserables.svg)](https://travis-ci.org/anvaka/miserables)
+# miserables [![build status](https://github.com/anvaka/miserables/actions/workflows/tests.yaml/badge.svg)](https://github.com/anvaka/miserables/actions/workflows/tests.yaml)
+
 
 The encounters between the characters of Les Misérables as a graph (see [`ngraph.graph`](https://github.com/anvaka/ngraph.graph)
 for the API):
