@@ -7,8 +7,8 @@ var svg = render.svg;
 var renderer = render(graph, {
   physics: {
     springLength : 35,
-    springCoeff : 0.00055,
-    dragCoeff : 0.09,
+    springCoefficient : 0.00055,
+    dragCoefficient : 0.09,
     gravity : -1
   }
 });
