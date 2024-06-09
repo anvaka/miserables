@@ -1,0 +1,15 @@
+TAP version 14
+# Subtest: it creates graph
+    ok 1 - Graph has links
+    ok 2 - And graph has nodes
+    1..2
+ok 1 - it creates graph # time=15.557ms
+
+# Subtest: it can create copies of the graph
+    ok 1 - Graph has links
+    ok 2 - And graph has nodes
+    ok 3 - Instances are not the same
+    1..3
+ok 2 - it can create copies of the graph # time=48.526ms
+
+1..2

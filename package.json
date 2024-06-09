@@ -24,6 +24,6 @@
   },
   "devDependencies": {
     "ngraph.svg": "0.0.17",
-    "tap": "^16.0.1"
+    "tap": "^19.2.2"
   }
 }
